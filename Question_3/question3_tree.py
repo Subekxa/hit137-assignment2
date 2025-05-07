@@ -1,5 +1,6 @@
 import turtle
 
+
 #Recursive function to draw the tree branches
 def draw_branch(t, branch_length, left_angle, right_angle, depth, reduction_factor):
     if depth > 0:
