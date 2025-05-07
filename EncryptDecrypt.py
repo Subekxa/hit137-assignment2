@@ -1,4 +1,6 @@
-# Function to read the content of a file
+
+#Question 1
+# # Function to read the content of a file
 def read_raw_file(file_path):
     try:
         # Try opening the file in read mode to fetch its content
