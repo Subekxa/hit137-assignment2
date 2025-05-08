@@ -1,4 +1,3 @@
-
 #Question 1
 # # Function to read the content of a file
 def read_raw_file(file_path):
