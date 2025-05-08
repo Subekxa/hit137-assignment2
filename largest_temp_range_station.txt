@@ -1,0 +1,1 @@
+Station with the largest temperature range: WYALONG-POST-OFFICE with a range of 20.58°C
