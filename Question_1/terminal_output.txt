@@ -1,0 +1,13 @@
+Content of raw_text.txt:
+Hello everyone this is my raw text file for the 2nd assignment of Software Now.
+
+Enter value for n (positive integer): 34
+Enter value for m (positive integer): 67
+
+Encrypted content written to encrypted_text.txt
+
+Decrypted Text:
+Hello everyone this is my raw text file for the 2nd assignment of Software Now.
+
+
+ Decryption successful. Text matches the original.z
